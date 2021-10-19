@@ -1,0 +1,19 @@
+{
+    "name": "IDN-File-To-Link",
+    "description": "Bot to provide links of different types of files you send.",
+    "website": "https://telegram.dog/IDNCoderX/",
+    "repository": "https://github.com/IDN-C-X/IDN-File-To-Link",
+    "env": {
+          "BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true}
+    },
+    "buildpacks": [
+      {"url": "heroku/python"}
+    ],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    },
+    "stack": "heroku-20"
+  }
