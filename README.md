@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/github/contributors/IDN-C-X/IDN-File-To-Link?style=for-the-badge&color=green" alt="Contributors">
     <img src="https://img.shields.io/github/issues/IDN-C-X/IDN-File-To-Link?style=for-the-badge&color=yellow" alt="Issues">
 </p>  
+<a href="https://www.codefactor.io/repository/github/idn-c-x/idn-file-to-link"><img src="https://www.codefactor.io/repository/github/idn-c-x/idn-file-to-link/badge" alt="CodeFactor" /></a>
 
 ## WHAT CAN THIS BOT DO
 Is it a nuisance to send huge files to others ? File To Link Bot is for you.This bot will help you to provide shorten links for different types of files you send.
